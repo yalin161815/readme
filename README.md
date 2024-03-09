@@ -21,8 +21,12 @@ This is sub-account, will respond anything if I could in issues, but probably wo
 
 Although I don't expect anyone to care about it, whatever.
 
-Update (March 2024):
-Will move to west Japan in April.
-Started to try Russian recently.
-Picking up piano once again after almost 3 years.
-Maintaining another complicated project (with csharp, cpp, disassembly and some drama...)
+> Update (March 2024):
+>
+> Will move to west Japan in April.
+>
+> Started to try Russian recently.
+>
+> Picking up piano once again after almost 3 years.
+>
+> Maintaining another complicated project (with csharp, cpp, disassembly and some drama...)
