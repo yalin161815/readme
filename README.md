@@ -23,10 +23,16 @@ Although I don't expect anyone to care about it, whatever.
 
 > Update (March 2024):
 >
-> Will move to west Japan in April.
+> Will move to west Japan in April (delayed).
 >
 > Started to try Russian recently.
 >
 > Picking up piano once again after almost 3 years.
 >
 > Maintaining another complicated project (with csharp, cpp, disassembly and some drama...)
+
+> Update (March 2024):
+>
+> Will move to west Japan in June.
+>
+> Immigrated to Canada, waiting for my new passport.
