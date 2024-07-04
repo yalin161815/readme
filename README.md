@@ -36,3 +36,5 @@ Although I don't expect anyone to care about it, whatever.
 > Will move to west Japan in June.
 >
 > Immigrated to Canada, waiting for my new passport.
+>
+> 可以告诉我你的邮件吗？ 有点事情向你咨询
